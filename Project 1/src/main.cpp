@@ -1,4 +1,4 @@
-//g++ -Wall -std=c++11 -o proj1 main.cpp
+//g++ -Wall -std=c++17 -o proj1 main.cpp
 
 #include "../include/Database.h"
 #include "../include/Table.h"
