@@ -24,3 +24,9 @@ GITHUB LINK: https://github.com/nathaniellipsey/CS-457/
 
 Compiled and run on Linux MINT 20.
 ===============================
+
+PROJECT DESIGN
+
+This program organizes multiple databases by creating Linux directories using the <filename> library (C++17 or higher required!)
+Tables are created using standard <ifstream> and <ostream> commands, with the <filename> library being used to navigate through database subfolders.
+Database functions are all written under Database.h, while table functions are all listed under Table.h.
