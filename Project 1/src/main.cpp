@@ -1,4 +1,7 @@
+//Compile command for use w/out CMAKE
 //g++ -Wall -std=c++17 -o proj1 main.cpp
+
+/* NATHANIEL LIPSEY | CS 457 | PROJECT 1 */
 
 #include "../include/Database.h"
 #include "../include/Table.h"
