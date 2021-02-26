@@ -144,29 +144,3 @@ void selectFromTable(std::string name, std::string database)
         }
     }
 }
-
-
-        	/*std::ofstream os(filename);
-	        if(os)
-	            os << "Hello world.\n";
-	        else 
-	        {
-	            std::cerr << "failed opening " << filename << " for writing\n";
-	        }*/
-
-/*
-void createTable(std::string name)
-{
-	std::ifstream outdata(name + ".dat");
-	if (outdata.is_open()) //if the file exists
-	{
-		std::cerr << "!Failed to create database " << name << " because it already exists." << std::endl;
-	}
-	else
-	{
-		std::ofstream outdata (name + ".dat");
-		std::cout << "Database " << name << " created." << std::endl;
-		outdata.close();
-	}
-}
-*/
