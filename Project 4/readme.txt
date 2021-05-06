@@ -35,4 +35,4 @@ Some other, more minor things that I changed from my last project-- external fun
 
 Finally, I added several new functions to meet the project requirements: commit and begin. The update function was also changed to account for this.
 
-All in all, despite optimization, the program wasn't much shorter, sitting at 746 lines (discluding headers). The program also ran into an odd misfunction-- one that would cause the printToConsole() function to not print the proper number of newlines (an error which, as of the current version, is now fixed-- the table read function was causing it to read too many lines in). Overall I am very proud of the project as a whole and I think I did a good job on it.
+All in all, despite optimization, the program wasn't much shorter, sitting at 750 lines (discluding headers). The program also ran into an odd misfunction-- one that would cause the printToConsole() function to not print the proper number of newlines (an error which, as of the current version, is now fixed-- the table read function was causing it to read too many lines in). Overall I am very proud of the project as a whole and I think I did a good job on it.
