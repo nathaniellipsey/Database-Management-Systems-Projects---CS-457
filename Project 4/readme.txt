@@ -14,7 +14,8 @@ If you are unable to compile the program using CMAKE, send me an email, and I wi
 3. Right click, Open Terminal Here
 4. Enter the command "cmake .." into the terminal
 5. Use the command "make" into the terminal
-6. Use the command ./project4 PA1.sql to run the project from the test file...
+6. Use the command ./project4 to run the project from the test file...
+7. ...and to run it from the second window, use ./project4 again in a seperate terminal in the same location.
 
 NOTE: If you get an error saying that the current cmake cache is different, delete the build folder, make a new folder of the same name, then try again.
 
